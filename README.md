@@ -15,9 +15,10 @@
 
 ---
 
-🎯 I specialize in designing intelligent, scalable AI solutions using state-of-the-art machine learning techniques, LLMs, and automation tools.
-💡 I help businesses build smart apps, chatbots, predictive systems, and analytical dashboards.
-🔬 Currently researching Federated Learning + Post-Quantum Blockchain integration.
+🎯 I specialize in designing intelligent, scalable AI solutions using cutting-edge ML, LLMs, and automation tools.  
+💡 I help businesses build smart apps, chatbots, predictive systems, and dashboards.  
+🔬 Researching Federated Learning + Post-Quantum Blockchain for secure decentralized AI.
+
 
 ---
 
