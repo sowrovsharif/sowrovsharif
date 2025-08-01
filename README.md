@@ -15,10 +15,9 @@
 
 ---
 
-![dart](https://img.shields.io/badge/-🎯-blue?style=flat-square) I specialize in designing intelligent, scalable AI solutions using state-of-the-art machine learning techniques, LLMs, and automation tools.  
-![lightbulb](https://img.shields.io/badge/-💡-yellow?style=flat-square) I help businesses build smart apps, chatbots, predictive systems, and analytical dashboards.  
-![microscope](https://img.shields.io/badge/-🔬-brightgreen?style=flat-square) Currently researching Federated Learning + Post-Quantum Blockchain integration.
-
+🎯 I specialize in designing intelligent, scalable AI solutions using state-of-the-art machine learning techniques, LLMs, and automation tools.
+💡 I help businesses build smart apps, chatbots, predictive systems, and analytical dashboards.
+🔬 Currently researching Federated Learning + Post-Quantum Blockchain integration.
 
 ---
 
