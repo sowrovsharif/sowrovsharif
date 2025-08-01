@@ -12,7 +12,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sowrov-sharif&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sowrovsharif&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sowrov-sharif)
