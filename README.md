@@ -13,52 +13,46 @@
 
 ---
 
-## 🧠 Core Expertise (SEO-Optimized)
-| Area | Keywords |
-|------|----------|
-| **AI & ML** | Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, Reinforcement Learning, Time Series, AI Agents, LLMs |
-| **Chatbots & LLMs** | ChatGPT, OpenAI API, Hugging Face, LangChain, Prompt Engineering, Text Summarization |
-| **MLOps & Deployment** | Docker, MLflow, Apache Airflow, Model Monitoring, Model Optimization, AWS, Vertex AI |
-| **Backend & APIs** | FastAPI, Python, Data Pipelines, Model Deployment, AIOps |
-| **Data Science** | Data Analysis, Feature Engineering, Data Preprocessing, Anomaly Detection, Business Intelligence |
-| **Tools & Frameworks** | TensorFlow, PyTorch, Scikit-Learn, OpenCV, XGBoost, YOLO, Keras, Streamlit, pandas, NumPy, Matplotlib |
-| **Visualization & BI** | Power BI, Tableau, Excel, Google Sheets, Dashboards |
-| **Analytics Deliverables** | Predictive Modeling, Image Segmentation, Sentiment Analysis, Fraud Detection, Sales Analytics |
-
----
-
 ## 🚀 Machine Learning Deliverables
 
-- ✅ AI Agent Development
-- 🎯 Model Tuning & Optimization
-- 📈 Predictive Analytics & Forecasting
-- 🧠 Recommendation Systems
-- 📊 Sentiment & Emotion Analysis
-- 🖼️ Image Recognition & Upscaling
-- 🤖 Chatbot & LLM Integration
-- 📦 Model Deployment & Monitoring
-- 📉 Time Series Analysis
-- 🔍 Anomaly & Fraud Detection
+| 🚩 Category | 💡 Deliverables |
+|------------|----------------|
+| ✅ Core Solutions | AI Agents, Recommendation Systems, Predictive Models |
+| 🧠 Vision & NLP | Image Recognition, Emotion Detection, Text Summarization |
+| 🔧 MLOps | Model Tuning, Optimization, Deployment, Monitoring |
+| 📉 Forecasting | Time Series Forecasting, Demand Prediction |
+| 🔍 Detection | Anomaly Detection, Fraud Detection, Object Tracking |
+| 🤖 Chatbots | LLM Integrations, Prompt Engineering, RAG Systems |
 
 ---
 
-## 🧪 ML Algorithms & Techniques
+## 🧪 Algorithms, Techniques & Methods
 
-- Supervised / Unsupervised / Reinforcement Learning  
-- Transfer Learning, Federated Learning, Edge AI  
-- SVM, Random Forest, XGBoost, AdaBoost  
-- K-Means, DBSCAN, PCA, Feature Selection  
-- Text Classification, NLP Tokenization  
-- Face Detection, Object Tracking, Image Processing  
+| 🧠 ML Focus Areas | 🧮 Sample Techniques |
+|------------------|---------------------|
+| **Learning Types** | Supervised, Unsupervised, Reinforcement, Federated |
+| **Modeling & Tuning** | SVM, Random Forest, XGBoost, DBSCAN, Transfer Learning |
+| **NLP Techniques** | Tokenization, Text Classification, Summarization |
+| **Computer Vision** | Object Detection, Face Recognition, Image Segmentation |
 
 ---
 
 ## 🧰 Tools & Technologies
 
-| Languages | Tools & Platforms | Visualization |
-|----------|-------------------|----------------|
-| Python, SQL, VBA | TensorFlow, PyTorch, MLflow, Docker, Vertex AI, Airflow, Hugging Face, Streamlit | Power BI, Tableau, Excel, Google Analytics |
-
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![MLflow](https://img.shields.io/badge/-MLflow-333333?style=flat&logo=mlflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
+![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+![Apache Airflow](https://img.shields.io/badge/-Airflow-333333?style=flat&logo=apache-airflow)
+![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
+![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=langchain)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-333333?style=flat&logo=huggingface)
 ---
 
 ## 📊 GitHub Stats
