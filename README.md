@@ -1,51 +1,56 @@
-<h1 align="center">👋 Hey, I'm Sowrov Sharif</h1>
-<h3 align="center">AI | ML | Data Science | MLOps | Chatbots | Federated Learning</h3>
+<h1 align="center">👋 Hey, I'm <span style="color:#1DA1F2;">Sowrov Sharif</span></h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sowrovsharif&label=Profile%20Views&color=0e75b6&style=flat" alt="sowrovsharif" />
+  <b>AI | ML | Data Science | MLOps | Chatbots | Federated Learning</b><br>
+  Designing intelligent, scalable AI systems with a strong focus on automation, optimization, and real-world deployment.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/sowrov-sharif">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://facebook.com/sowrov.sharif.1">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.upwork.com/freelancers/~yourprofile">
+    <img src="https://img.shields.io/badge/-Upwork-6FDA44?style=flat&logo=upwork&logoColor=white" alt="Upwork">
+  </a>
 </p>
 
 ---
 
-🎯 I specialize in designing intelligent, scalable AI solutions using state-of-the-art machine learning techniques, LLMs, and automation tools.  
-💡 I help businesses build smart apps, chatbots, predictive systems, and analytical dashboards.  
-🔬 Currently researching Federated Learning + Post-Quantum Blockchain integration.
+## 🚀 Machine Learning Deliverables
 
+| 🚩 Category | 💡 Deliverables |
+|------------|----------------|
+| ✅ Core Solutions | AI Agents, Recommendation Systems, Predictive Models |
+| 🧠 Vision & NLP | Image Recognition, Emotion Detection, Text Summarization |
+| 🔧 MLOps | Model Tuning, Optimization, Deployment, Monitoring |
+| 📉 Forecasting | Time Series Forecasting, Demand Prediction |
+| 🔍 Detection | Anomaly Detection, Fraud Detection, Object Tracking |
+| 🤖 Chatbots | LLM Integrations, Prompt Engineering, RAG Systems |
+
+---
 
 ## 🧰 Tools & Technologies
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
-![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![MLflow](https://img.shields.io/badge/-MLflow-333333?style=flat&logo=mlflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
-![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
-![Apache Airflow](https://img.shields.io/badge/-Airflow-333333?style=flat&logo=apache-airflow)
-![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
-![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=langchain)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-333333?style=flat&logo=huggingface)
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sowrovsharif&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowrovsharif&layout=compact&theme=radical" height="170" />
+<p>
+  <b>Languages & Frameworks:</b><br>
+  Python, FastAPI, Streamlit, SQL, PyTorch, TensorFlow<br><br>
+  <b>ML & MLOps Stack:</b><br>
+  MLflow, Docker, Apache Airflow, HuggingFace, LangChain<br><br>
+  <b>Analytics & Visualization:</b><br>
+  Power BI, OpenCV, Pandas, Matplotlib<br><br>
+  <b>Cloud & Deployment:</b><br>
+  AWS, GitHub Actions
 </p>
 
 ---
 
-## 🌍 Let's Connect
+## 📈 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sowrov-sharif)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/sowrov.sharif.1)
-[![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~yourprofile)
-
----
-
-### 🧠 Motto
-_“Build fast, learn faster — AI is only as powerful as how you apply it.”_
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sowrovsharif&show_icons=true&theme=radical" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowrovsharif&theme=radical" alt="GitHub Streak">
+</p>
