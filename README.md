@@ -11,31 +11,6 @@
 💡 I help businesses build smart apps, chatbots, predictive systems, and analytical dashboards.  
 🔬 Currently researching Federated Learning + Post-Quantum Blockchain integration.
 
----
-
-## 🚀 Machine Learning Deliverables
-
-| 🚩 Category | 💡 Deliverables |
-|------------|----------------|
-| ✅ Core Solutions | AI Agents, Recommendation Systems, Predictive Models |
-| 🧠 Vision & NLP | Image Recognition, Emotion Detection, Text Summarization |
-| 🔧 MLOps | Model Tuning, Optimization, Deployment, Monitoring |
-| 📉 Forecasting | Time Series Forecasting, Demand Prediction |
-| 🔍 Detection | Anomaly Detection, Fraud Detection, Object Tracking |
-| 🤖 Chatbots | LLM Integrations, Prompt Engineering, RAG Systems |
-
----
-
-## 🧪 Algorithms, Techniques & Methods
-
-| 🧠 ML Focus Areas | 🧮 Sample Techniques |
-|------------------|---------------------|
-| **Learning Types** | Supervised, Unsupervised, Reinforcement, Federated |
-| **Modeling & Tuning** | SVM, Random Forest, XGBoost, DBSCAN, Transfer Learning |
-| **NLP Techniques** | Tokenization, Text Classification, Summarization |
-| **Computer Vision** | Object Detection, Face Recognition, Image Segmentation |
-
----
 
 ## 🧰 Tools & Technologies
 
