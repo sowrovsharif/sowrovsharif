@@ -22,16 +22,22 @@
 
 ---
 
-### 🧰 Tools & Technologies
+## 🧰 Tools & Technologies
 
-**Languages & Frameworks:**  
-Python • FastAPI • Streamlit • PyTorch • TensorFlow • SQL
-
-**MLOps & DevOps:**  
-Docker • MLflow • Apache Airflow • AWS
-
-**Libraries & Platforms:**  
-OpenCV • Power BI • LangChain • Hugging Face
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![MLflow](https://img.shields.io/badge/-MLflow-333333?style=flat&logo=mlflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
+![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+![Apache Airflow](https://img.shields.io/badge/-Airflow-333333?style=flat&logo=apache-airflow)
+![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
+![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=langchain)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-333333?style=flat&logo=huggingface)
 
 ---
 
