@@ -1,4 +1,5 @@
-<h1 align="center">👋 Hey, I'm <span style="color:#1DA1F2;">Sowrov Sharif</span></h1>
+<h1 align="center">👋 Hey, I'm <img src="https://img.shields.io/badge/-Sowrov%20Sharif-1DA1F2?style=flat&logo=github&logoColor=white" alt="Sowrov Sharif" /></h1>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/sowrovsharif">
